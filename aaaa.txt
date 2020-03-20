@@ -7,4 +7,4 @@ add 5th line from local
 practice version rollback
 Git has a mutable index called stage.
 I want to rollback this modify
-create a branch is so quick.(repair bug...)
+create a branch is so quick.(repair bug...)(fix issue02)
